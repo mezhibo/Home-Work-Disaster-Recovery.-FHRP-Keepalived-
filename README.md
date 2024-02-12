@@ -7,3 +7,4 @@
 
 Решение 1
 ![ALT TEXT](https://github.com/mezhibo/Home-Work-Disaster-Recovery.-FHRP-Keepalived-/blob/da0c58e20b0c246f9df6abe8193fe9b2fd677108/IMG/1.jpg)
+Ссылка на фаил https://github.com/mezhibo/Home-Work-Disaster-Recovery.-FHRP-Keepalived-/blob/6b524c918cd22400f492770b5c878d201a49ec8b/mezhibo_hsrp_advanced.pkt
